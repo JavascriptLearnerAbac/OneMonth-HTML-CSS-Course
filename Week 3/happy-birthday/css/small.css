@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.hero img {
+    border-radius: 0;
+}
+
+aside.right, aside.left {
+    text-align: center;
+    float: inherit;
+}
+.google-maps iframe{
+    width: 100% !important;
+  }
+
+.intro{
+  /* background:url('../images/rap-hero.webp'); */
+  border-radius: 0px;
+}
+.contact{
+  /* background: whitesmoke; */
+  border-radius: 0px;
+}
